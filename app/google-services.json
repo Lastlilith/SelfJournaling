@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "995838277701",
+    "project_id": "self-journaling",
+    "storage_bucket": "self-journaling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995838277701:android:4fcf336635e754ed7c4b2c",
+        "android_client_info": {
+          "package_name": "com.example.selfjournaling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995838277701-iu484ugtppk22ptjvck37lpuev8a6oeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX9ceyLb-BTzrVK2bRE_eAQAD1eMmiE1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995838277701-iu484ugtppk22ptjvck37lpuev8a6oeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

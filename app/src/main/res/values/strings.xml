@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Self Journaling</string>
+    <string name="title_text">Self. Graditude. Journal</string>
+    <string name="grateful_text">What are you greatful for today?</string>
+    <string name="get_started_text">Get Started</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">Login</string>
+    <string name="or_text">Or</string>
+    <string name="create_text">Create Account</string>
+    <string name="username_hint">Username</string>
+    <string name="post_title">Title</string>
+    <string name="thoughts">Your thoughts</string>
+    <string name="save_button">Save</string>
+    <string name="background_picture">Background picture</string>
+    <string name="upload_photo">Upload photo</string>
+    <string name="menu_title">Add thoughts</string>
+    <string name="sign_out">Sign out</string>
+    <string name="no_thoughts_hint">Write a Journal Entry by clicking the \"+\" sign</string>
+    <string name="today">Today</string>
+    <string name="vladimir">Vladimir</string>
+    <string name="petr">Petr</string>
+    <string name="share_text">Share button</string>
+    <string name="background_photo">backgound view</string>
+    <string name="title">Title</string>
+    <string name="thoughts_text">Thoughts...</string>
+    <string name="date_created">Date created</string>
+</resources>
